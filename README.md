@@ -7,4 +7,4 @@ React-Native app using Redux
 App run with Expo  
 
 Result: 
-![Result](./screenShot.png)
+![Result](./screenShot.PNG)
